@@ -32,9 +32,16 @@ The file structure of a given part in this repository is as follows:
 2. or, Raise an issue in this repository
 3. or, post your problems in the WhatsApp group mentioned
 4. or, feel free to contact the makers of this repository
-<!---  
-### Authors & Contributors of this repository:-
-<p align = "center">
+ 
+## Finally, Why we do this you ask ?!!
+<p align="center">
+ <img  width="400" height="250" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/job.jpg">
+</p>
+
+## Authors & Contributors of this repository:-
+
+<center>
+ 
 <table>
  <td align="center">
      <a href="https://github.com/lok-i">
@@ -45,9 +52,7 @@ The file structure of a given part in this repository is as follows:
     <img src="https://avatars3.githubusercontent.com/u/44475481?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Niranth Sai</b></sub></a><br /></td>
     
 </table>
-</p>
--->
-## Authors / Contributors:
-* [Lokesh Krishna](https://github.com/lok-i)           
-* [Niranth Sai](https://github.com/NiranthS)
+
+</center>
+
 
